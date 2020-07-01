@@ -1,0 +1,2 @@
+# gorillasystem
+Repo untuk GorillaSystem
